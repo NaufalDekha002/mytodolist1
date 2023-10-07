@@ -1,0 +1,25 @@
+{
+    "judul": "Proposal proyek 3",
+    "deskripsi": "Proposal proyek 3",
+    "tim" : [
+        {
+            "nama": "Dirga Febrian",
+            "npm": 1214039,
+            "email": "dirgafebrian45@gmail.com"
+        },
+        {
+            "nama": "Naufal Dekha Widana",
+            "npm": 1214055,
+            "email": "dekhawidananaufal@gmail.com"
+        }
+    ],
+    "isi" : {
+        "judulproposal" : "Perancangan Aplikasi Web To Do List",
+        "latarbelakang1" : "Dalam dunia yang semakin maju, sangat memungkinkan bagi seseorang sangat sibuk dalam kesehariannya. Hal tersebut sangat berpengaruh bagi mereka dalam hal manajemen tugas, sehingga tidak jarang bagi mereka terlupakan jadwal yang akan dilakukan.",
+        "latarbelakang2" : "Oleh karena itu, mereka memerlukan sebuah aplikasi yang dapat mengingatkan mereka ketika ada jadwal yang harus dilakukan pada hari tersebut agar mereka tidak lupa.",
+        "tujuan" : "Tujuan dibuatkan aplikasi ini adalah untuk mempermudah pengguna dalam hal mengatur jadwal untuk tugas/aktivitas mereka agar lebih efektif dan efisien.",
+        "kesimpulan1" : "Aplikasi Web To Do List ini akan sangan berguna bagi user dalam hal mengatur waktu dan jadwal yang ingin di kerjakan. Dengan fungsi dan antarmuka yang ramah bagi pengguna, tentunya aplikasi ini akan sangat membantu bagi user dalam hal manajemen waktu dan produktivitas.",
+        "kesimpulan2" : "Kami mengundang dukungan dan kerjasama dari pihak yang berkepentingan untuk mewujudkan proyek ini. Dan kami berharap dengan adanya aplikasi ini memberikan manfaat dan berguna bagi banyak orang.",
+        "kesimpulan3" : "Kami berterima kasih atas perhatian Anda, dan kami sangat berharap dapat bekerja sama untuk berjalannya pembuatan aplikasi ini."
+    }
+}
